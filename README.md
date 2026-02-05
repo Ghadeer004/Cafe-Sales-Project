@@ -1,4 +1,3 @@
-# Cafe-Sales-Project
 # Cafe Sales Total Spent Prediction ☕
 
 Machine learning project to predict customer total spending using cafe sales data.
